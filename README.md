@@ -70,6 +70,16 @@ Here are some ideas to get you started:
 
 <br/>  
 
+###
+
+ 
+
+<img align="right" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+
+ 
+
+###
+
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
